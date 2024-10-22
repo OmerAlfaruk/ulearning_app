@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804078123496",
+    "project_id": "ulearning-18cdc",
+    "storage_bucket": "ulearning-18cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804078123496:android:7ff53846e2a7114a648c5d",
+        "android_client_info": {
+          "package_name": "com.omrka.ulearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcDzZCBm2YMHAD0at-xMpEAWmEHp3MvOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
